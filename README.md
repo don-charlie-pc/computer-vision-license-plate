@@ -78,7 +78,7 @@ STEPS:
 
 1. Firstly, after forking this repo into yiur local system, go the OIDToolkit Sub directory within the command prompt and run the command given below and follow the steps mentioaned on readme.md of the sub-directory: 
 
-pip isntall -r requirements.txt
+pip install -r requirements.txt
 
 
 ```
